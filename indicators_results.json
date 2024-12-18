@@ -1,0 +1,1102 @@
+[
+    {
+        "time": "2024-12-17 17:04:24",
+        "MACD": {
+            "macd_line": -439.27101132228563,
+            "signal_line": -477.90951951507725,
+            "histogram": 38.63850819279162,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 45.41964245630571,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105017.98550000001,
+            "long_MA": 105969.414,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104725.94,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2036119099998,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-17 18:04:24",
+        "MACD": {
+            "macd_line": -439.270213601485,
+            "signal_line": -477.9093599709171,
+            "histogram": 38.63914636943207,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 45.41974555303933,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105017.986,
+            "long_MA": 105969.4142,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104725.95,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2044698099999,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-17 19:04:24",
+        "MACD": {
+            "macd_line": -439.27101132228563,
+            "signal_line": -477.90951951507725,
+            "histogram": 38.63850819279162,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 45.41964245630571,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105017.98550000001,
+            "long_MA": 105969.414,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104725.95,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2045277099999,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-17 20:04:24",
+        "MACD": {
+            "macd_line": -439.270213601485,
+            "signal_line": -477.9093599709171,
+            "histogram": 38.63914636943207,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 45.41974555303933,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105017.986,
+            "long_MA": 105969.4142,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104696.02,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.22502171,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-17 21:04:24",
+        "MACD": {
+            "macd_line": -442.9349429462309,
+            "signal_line": -478.64230583986625,
+            "histogram": 35.70736289363538,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.94197414502166,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.689,
+            "long_MA": 105968.4954,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104680.0,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2261397099999,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-17 22:04:24",
+        "MACD": {
+            "macd_line": -442.9357406670024,
+            "signal_line": -478.64246538402057,
+            "histogram": 35.706724717018176,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.941869235460125,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.6885,
+            "long_MA": 105968.4952,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104680.0,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.22630641,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-17 23:04:24",
+        "MACD": {
+            "macd_line": -442.9357406670024,
+            "signal_line": -478.64246538402057,
+            "histogram": 35.706724717018176,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.941869235460125,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.6885,
+            "long_MA": 105968.4952,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104678.46,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2265223099998,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 00:04:24",
+        "MACD": {
+            "macd_line": -443.571524142797,
+            "signal_line": -478.7696220791795,
+            "histogram": 35.19809793638251,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.8581289848668,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.29000000001,
+            "long_MA": 105968.3358,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104672.03,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2268628099998,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 01:04:24",
+        "MACD": {
+            "macd_line": -443.571524142797,
+            "signal_line": -478.7696220791795,
+            "histogram": 35.19809793638251,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.8581289848668,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.29000000001,
+            "long_MA": 105968.3358,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104672.02,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2270844099999,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 02:04:24",
+        "MACD": {
+            "macd_line": -443.5723218635976,
+            "signal_line": -478.7697816233396,
+            "histogram": 35.197459759742,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.85802375553844,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.2895,
+            "long_MA": 105968.3356,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104672.01,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2302427099999,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 03:04:24",
+        "MACD": {
+            "macd_line": -443.5723218635976,
+            "signal_line": -478.7697816233396,
+            "histogram": 35.197459759742,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.85802375553844,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.2895,
+            "long_MA": 105968.3356,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104672.02,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2302750099998,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 04:04:24",
+        "MACD": {
+            "macd_line": -443.5723218635976,
+            "signal_line": -478.7697816233396,
+            "histogram": 35.197459759742,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.85802375553844,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.2895,
+            "long_MA": 105968.3356,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104672.01,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2302992099999,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 05:04:24",
+        "MACD": {
+            "macd_line": -443.5723218635976,
+            "signal_line": -478.7697816233396,
+            "histogram": 35.197459759742,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.85802375553844,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.2895,
+            "long_MA": 105968.3356,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104672.02,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23030581,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 06:04:24",
+        "MACD": {
+            "macd_line": -443.5723218635976,
+            "signal_line": -478.7697816233396,
+            "histogram": 35.197459759742,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.85802375553844,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105015.2895,
+            "long_MA": 105968.3356,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104663.3,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23064091,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 07:04:24",
+        "MACD": {
+            "macd_line": -444.61574066700996,
+            "signal_line": -478.9784653840221,
+            "histogram": 34.362724717012156,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.72003910698316,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.6355,
+            "long_MA": 105968.074,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.94,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23106511,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 08:04:24",
+        "MACD": {
+            "macd_line": -444.6165383878106,
+            "signal_line": -478.9786249281822,
+            "histogram": 34.36208654037165,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.719933349949876,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.63500000001,
+            "long_MA": 105968.0738,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.94,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23248031,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 09:04:24",
+        "MACD": {
+            "macd_line": -444.61574066700996,
+            "signal_line": -478.9784653840221,
+            "histogram": 34.362724717012156,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.72003910698316,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.6355,
+            "long_MA": 105968.074,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.93,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23301631,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 10:04:24",
+        "MACD": {
+            "macd_line": -444.6165383878106,
+            "signal_line": -478.9786249281822,
+            "histogram": 34.36208654037165,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.719933349949876,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.63500000001,
+            "long_MA": 105968.0738,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.94,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23359531,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 11:04:24",
+        "MACD": {
+            "macd_line": -444.61574066700996,
+            "signal_line": -478.9784653840221,
+            "histogram": 34.362724717012156,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.72003910698316,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.6355,
+            "long_MA": 105968.074,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.94,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23372001,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 12:04:24",
+        "MACD": {
+            "macd_line": -444.61574066700996,
+            "signal_line": -478.9784653840221,
+            "histogram": 34.362724717012156,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.72003910698316,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.6355,
+            "long_MA": 105968.074,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.93,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2357687099998,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 13:04:24",
+        "MACD": {
+            "macd_line": -444.6165383878106,
+            "signal_line": -478.9786249281822,
+            "histogram": 34.36208654037165,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.719933349949876,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.63500000001,
+            "long_MA": 105968.0738,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.94,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23611141,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 14:04:24",
+        "MACD": {
+            "macd_line": -444.6165383878106,
+            "signal_line": -478.9786249281822,
+            "histogram": 34.36208654037165,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.719933349949876,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.63500000001,
+            "long_MA": 105968.0738,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.93,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23674481,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 15:04:24",
+        "MACD": {
+            "macd_line": -444.61574066700996,
+            "signal_line": -478.9784653840221,
+            "histogram": 34.362724717012156,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.72003910698316,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.6355,
+            "long_MA": 105968.074,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.94,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2370417099999,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 16:04:24",
+        "MACD": {
+            "macd_line": -444.6165383878106,
+            "signal_line": -478.9786249281822,
+            "histogram": 34.36208654037165,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.719933349949876,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.63500000001,
+            "long_MA": 105968.0738,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.93,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.23711661,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    },
+    {
+        "time": "2024-12-18 17:04:24",
+        "MACD": {
+            "macd_line": -444.61574066700996,
+            "signal_line": -478.9784653840221,
+            "histogram": 34.362724717012156,
+            "action": "Hold"
+        },
+        "RSI": {
+            "rsi": 44.72003910698316,
+            "action": "Дивергенция не обнаружена."
+        },
+        "MovingAverage": {
+            "short_MA": 105014.6355,
+            "long_MA": 105968.074,
+            "action": "Hold"
+        },
+        "Fibonacci": {
+            "levels": {
+                "0.0": 100760.0,
+                "0.382": 103624.38498,
+                "0.5": 104509.195,
+                "0.618": 105394.00502,
+                "0.786": 106653.73454,
+                "1.0": 108258.39
+            },
+            "action": "Hold"
+        },
+        "VolumeProfile": {
+            "price": 104658.93,
+            "VAH": 108258.39,
+            "VAL": 100760.0,
+            "ValueArea": 1177.2393181099999,
+            "action": "Hold"
+        },
+        "Ichimoku": {
+            "tenkan_sen": 104411.48999999999,
+            "kijun_sen": 105915.28,
+            "senkou_span_a": 105163.385,
+            "senkou_span_b": 105915.28,
+            "action": "Sell"
+        },
+        "final_action": "MACD: Hold | RSI: Дивергенция не обнаружена. | MA: Hold | Fibonacci: Hold | Volume Profile: Hold | Ichimoku: Sell"
+    }
+]
